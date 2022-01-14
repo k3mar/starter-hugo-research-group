@@ -2,7 +2,7 @@
 title: "An example preprint / working paper"
 authors:
 - admin
--吳恩達
+- 吳恩達
 
 date: "2019-04-07T00:00:00Z"
 doi: ""
